@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F3E8E209-2235-4965-912A-0AEE0CE318A8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Downloader205</RootNamespace>
+    <AssemblyName>Downloader205</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>download-icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>EB49BF44456470C879ABED2926A9FF086FED3886</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>vitbian 2013.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="JsonFx.Json">
+      <HintPath>..\Referencias\JsonFx.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\GestorDeOfertas.cs" />
+    <Compile Include="Formularios\Ofertas\Dealply\Dealply\ucDealply.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Dealply\Dealply\ucDealply.Designer.cs">
+      <DependentUpon>ucDealply.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Google\RealPlayer\ucGoogle-RealPlayer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Google\RealPlayer\ucGoogle-RealPlayer.Designer.cs">
+      <DependentUpon>ucGoogle-RealPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\InstallMonetizer\Systweak\ucInstallMonetizerSystweak.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\InstallMonetizer\Systweak\ucInstallMonetizerSystweak.Designer.cs">
+      <DependentUpon>ucInstallMonetizerSystweak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Oneclickbar\Multimedia Toolbar\ucOneclickbar_Multimedia Toolbar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Oneclickbar\Multimedia Toolbar\ucOneclickbar_Multimedia Toolbar.Designer.cs">
+      <DependentUpon>ucOneclickbar_Multimedia Toolbar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Soft Publisher\Shopping Chips\ucSoftPublisher-ShoppingChips.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Soft Publisher\Shopping Chips\ucSoftPublisher-ShoppingChips.Designer.cs">
+      <DependentUpon>ucSoftPublisher-ShoppingChips.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controller\GestorDeAplicaciones.cs" />
+    <Compile Include="Formularios\Ofertas\ElexTech\YAC\ucElexTechYAC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\ElexTech\YAC\ucElexTechYAC.Designer.cs">
+      <DependentUpon>ucElexTechYAC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Adsology\Optimizer Pro\ucAdsologyOptimizerPro.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Adsology\Optimizer Pro\ucAdsologyOptimizerPro.Designer.cs">
+      <DependentUpon>ucAdsologyOptimizerPro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\aMonetize\Mobogenie\ucAMonetizer-Mobogenie.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\aMonetize\Mobogenie\ucAMonetizer-Mobogenie.Designer.cs">
+      <DependentUpon>ucAMonetizer-Mobogenie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\aMonetize\ReMarkit\ucAMonetizer-ReMarkit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\aMonetize\ReMarkit\ucAMonetizer-ReMarkit.Designer.cs">
+      <DependentUpon>ucAMonetizer-ReMarkit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\InstallMonetizer\SearchProtect\ucInstallMonetizer-SearchProtect.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\InstallMonetizer\SearchProtect\ucInstallMonetizer-SearchProtect.Designer.cs">
+      <DependentUpon>ucInstallMonetizer-SearchProtect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\InstallMonetizer\Video-Saver\ucInstallMonetizer-VideoSaver.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\InstallMonetizer\Video-Saver\ucInstallMonetizer-VideoSaver.Designer.cs">
+      <DependentUpon>ucInstallMonetizer-VideoSaver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Just Develop It\My PC Backup\ucJustDevelopItMyPCBackup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Just Develop It\My PC Backup\ucJustDevelopItMyPCBackup.Designer.cs">
+      <DependentUpon>ucJustDevelopItMyPCBackup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\PC Speed Up\ucPCSpeedUp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\PC Speed Up\ucPCSpeedUp.Designer.cs">
+      <DependentUpon>ucPCSpeedUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Revenyou\Great Arcade Hits\ucRevenyouGreatArcadehits.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Revenyou\Great Arcade Hits\ucRevenyouGreatArcadehits.Designer.cs">
+      <DependentUpon>ucRevenyouGreatArcadehits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Revenyou\Mobogenie\ucRevenyouMobogenie.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Revenyou\Mobogenie\ucRevenyouMobogenie.Designer.cs">
+      <DependentUpon>ucRevenyouMobogenie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Revenyou\ShoppingHelper\ucRevenyouShoppingHelper.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Revenyou\ShoppingHelper\ucRevenyouShoppingHelper.Designer.cs">
+      <DependentUpon>ucRevenyouShoppingHelper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Revenyou\Weather alerts\ucRevenyou-WeatherAlerts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Revenyou\Weather alerts\ucRevenyou-WeatherAlerts.Designer.cs">
+      <DependentUpon>ucRevenyou-WeatherAlerts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Revizer\Re Markable\ucRevizerReMarkable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Revizer\Re Markable\ucRevizerReMarkable.Designer.cs">
+      <DependentUpon>ucRevizerReMarkable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Soft Publisher\Iminent Toolbar\SoftPublisher-Confirmacion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Soft Publisher\Iminent Toolbar\SoftPublisher-Confirmacion.Designer.cs">
+      <DependentUpon>SoftPublisher-Confirmacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Soft Publisher\Iminent Toolbar\ucSoftPublisher-IminentToolBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Soft Publisher\Iminent Toolbar\ucSoftPublisher-IminentToolBar.Designer.cs">
+      <DependentUpon>ucSoftPublisher-IminentToolBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Sterkly\loffinam\Sterkly-loffinam.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios\Ofertas\Sterkly\loffinam\Sterkly-loffinam.Designer.cs">
+      <DependentUpon>Sterkly-loffinam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\ucInicio.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios\ucInicio.Designer.cs">
+      <DependentUpon>ucInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Formularios\Ofertas\Dealply\Dealply\ucDealply.resx">
+      <DependentUpon>ucDealply.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Ofertas\Google\RealPlayer\ucGoogle-RealPlayer.resx">
+      <DependentUpon>ucGoogle-RealPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Ofertas\InstallMonetizer\Systweak\ucInstallMonetizerSystweak.resx">
+      <DependentUpon>ucInstallMonetizerSystweak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Ofertas\Oneclickbar\Multimedia Toolbar\ucOneclickbar_Multimedia Toolbar.resx">
+      <DependentUpon>ucOneclickbar_Multimedia Toolbar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Ofertas\Soft Publisher\Shopping Chips\ucSoftPublisher-ShoppingChips.resx">
+      <DependentUpon>ucSoftPublisher-ShoppingChips.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Ofertas\ElexTech\YAC\ucElexTechYAC.resx">
+      <DependentUpon>ucElexTechYAC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Ofertas\Adsology\Optimizer Pro\ucAdsologyOptimizerPro.resx">
+      <DependentUpon>ucAdsologyOptimizerPro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Ofertas\aMonetize\Mobogenie\ucAMonetizer-Mobogenie.resx">
+      <DependentUpon>ucAMonetizer-Mobogenie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Ofertas\aMonetize\ReMarkit\ucAMonetizer-ReMarkit.resx">
+      <DependentUpon>ucAMonetizer-ReMarkit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Ofertas\InstallMonetizer\SearchProtect\ucInstallMonetizer-SearchProtect.resx">
+      <DependentUpon>ucInstallMonetizer-SearchProtect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Ofertas\InstallMonetizer\Video-Saver\ucInstallMonetizer-VideoSaver.resx">
+      <DependentUpon>ucInstallMonetizer-VideoSaver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Ofertas\Just Develop It\My PC Backup\ucJustDevelopItMyPCBackup.resx">
+      <DependentUpon>ucJustDevelopItMyPCBackup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Ofertas\PC Speed Up\ucPCSpeedUp.resx">
+      <DependentUpon>ucPCSpeedUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Ofertas\Revenyou\Great Arcade Hits\ucRevenyouGreatArcadehits.resx">
+      <DependentUpon>ucRevenyouGreatArcadehits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Ofertas\Revenyou\Mobogenie\ucRevenyouMobogenie.resx">
+      <DependentUpon>ucRevenyouMobogenie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Ofertas\Revenyou\ShoppingHelper\ucRevenyouShoppingHelper.resx">
+      <DependentUpon>ucRevenyouShoppingHelper.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Ofertas\Revenyou\Weather alerts\ucRevenyou-WeatherAlerts.resx">
+      <DependentUpon>ucRevenyou-WeatherAlerts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Ofertas\Revizer\Re Markable\ucRevizerReMarkable.resx">
+      <DependentUpon>ucRevizerReMarkable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Ofertas\Soft Publisher\Iminent Toolbar\SoftPublisher-Confirmacion.resx">
+      <DependentUpon>SoftPublisher-Confirmacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Ofertas\Soft Publisher\Iminent Toolbar\ucSoftPublisher-IminentToolBar.resx">
+      <DependentUpon>ucSoftPublisher-IminentToolBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Ofertas\Sterkly\loffinam\Sterkly-loffinam.resx">
+      <DependentUpon>Sterkly-loffinam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\ucInicio.resx">
+      <DependentUpon>ucInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Formularios\FondoApp.PNG" />
+    <None Include="Formularios\Ofertas\aMonetize\Mobogine.PNG" />
+    <None Include="Formularios\BannerIzquierda.PNG" />
+    <Content Include="download-icon.ico" />
+    <Content Include="download.ico" />
+    <Content Include="download2.ico" />
+    <Content Include="Formularios\Ofertas\aMonetize\ReMarkit\Imagenes\ReMarkit.PNG" />
+    <None Include="Resources\img140_1.png" />
+    <None Include="Formularios\Ofertas\Soft Publisher\Iminent Toolbar\Imagenes\Toolbar.PNG" />
+    <None Include="Resources\Captura.PNG" />
+    <None Include="Resources\unnamed.png" />
+    <None Include="Resources\imagen-2.png" />
+    <None Include="Resources\Captura1.PNG" />
+    <None Include="Resources\Captura2.PNG" />
+    <None Include="Resources\optimizer-pro - product name.png" />
+    <None Include="Resources\Product Box - with Glow.png" />
+    <None Include="Resources\yac.jpg" />
+    <Content Include="JsonFx.Json.dll" />
+    <None Include="Resources\img12_1.jpg" />
+    <None Include="Resources\logo.png" />
+    <None Include="Resources\mtoolbar.png" />
+    <None Include="Resources\en.jpg" />
+    <None Include="Resources\shopping-chip.png" />
+    <None Include="Resources\Captura3.PNG" />
+    <Content Include="Saki-Snowish-Install.ico" />
+    <None Include="bin\Debug\itun.png" />
+    <None Include="Formularios\Ofertas\PC Speed Up\Imagenes\Fondo.PNG" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

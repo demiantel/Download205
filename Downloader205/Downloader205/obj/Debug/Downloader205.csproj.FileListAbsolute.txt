@@ -1,0 +1,179 @@
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\bin\Debug\Downloader205.exe
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\bin\Debug\Downloader205.pdb
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\bin\Debug\JsonFx.Json.dll
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.frmPrincipal.resources
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.ElexTech.YAC.ucElexTechYAC.resources
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Adsology.Optimizer_Pro.ucAdsologyOptimizerPro.resources
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.aMonetize.Mobogenie.ucAMonetizer_Mobogenie.resources
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.aMonetize.ReMarkit.ucAMonetizer_ReMarkit.resources
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.InstallMonetizer.SearchProtect.ucInstallMonetizer_SearchProtect.resources
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.InstallMonetizer.Video_Saver.ucInstallMonetizer_VideoSaver.resources
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Just_Develop_It.My_PC_Backup.ucJustDevelopItMyPCBackup.resources
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.PC_Speed_Up.ucPCSpeedUp.resources
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.Great_Arcade_Hits.ucRevenyouGreatArcadehits.resources
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.Mobogenie.ucRevenyouMobogenie.resources
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.ShoppingHelper.ucRevenyouShoppingHelper.resources
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.Weather_alerts.ucRevenyou_WeatherAlerts.resources
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revizer.Re_Markable.ucRevizerReMarkable.resources
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Soft_Publisher.Iminent_Toolbar.SoftPublisher_Confirmacion.resources
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Soft_Publisher.Iminent_Toolbar.ucSoftPublisher_IminentToolBar.resources
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Sterkly.loffinam.Sterkly__loffinam.resources
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.ucInicio.resources
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.Properties.Resources.resources
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.csproj.GenerateResource.Cache
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.exe
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.pdb
+C:\Dev\Pruebas Installers\Downloader\Downloader205\Downloader205\obj\Debug\Downloader205.csprojResolveAssemblyReference.cache
+C:\Dev\Downloader205\Downloader205\Downloader205\bin\Debug\Downloader205.exe
+C:\Dev\Downloader205\Downloader205\Downloader205\bin\Debug\Downloader205.pdb
+C:\Dev\Downloader205\Downloader205\Downloader205\bin\Debug\JsonFx.Json.dll
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.csprojResolveAssemblyReference.cache
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.frmPrincipal.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.ElexTech.YAC.ucElexTechYAC.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Adsology.Optimizer_Pro.ucAdsologyOptimizerPro.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.aMonetize.Mobogenie.ucAMonetizer_Mobogenie.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.aMonetize.ReMarkit.ucAMonetizer_ReMarkit.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.InstallMonetizer.SearchProtect.ucInstallMonetizer_SearchProtect.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.InstallMonetizer.Video_Saver.ucInstallMonetizer_VideoSaver.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Just_Develop_It.My_PC_Backup.ucJustDevelopItMyPCBackup.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.PC_Speed_Up.ucPCSpeedUp.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.Great_Arcade_Hits.ucRevenyouGreatArcadehits.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.Mobogenie.ucRevenyouMobogenie.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.ShoppingHelper.ucRevenyouShoppingHelper.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.Weather_alerts.ucRevenyou_WeatherAlerts.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revizer.Re_Markable.ucRevizerReMarkable.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Soft_Publisher.Iminent_Toolbar.SoftPublisher_Confirmacion.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Soft_Publisher.Iminent_Toolbar.ucSoftPublisher_IminentToolBar.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Sterkly.loffinam.Sterkly__loffinam.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.ucInicio.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Properties.Resources.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.csproj.GenerateResource.Cache
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.exe
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.pdb
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.InstallMonetizer.Systweak.ucInstallMonetizerSystweak.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Oneclickbar.Multimedia_Toolbar.ucOneclickbar_Multimedia_Toolbar.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Dealply.Dealply.ucDealply.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\bin\Debug\Downloader205.exe
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\bin\Debug\Downloader205.pdb
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\bin\Debug\JsonFx.Json.dll
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Dealply.Dealply.ucDealply.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Google.RealPlayer.ucGoogle_RealPlayer.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.InstallMonetizer.Systweak.ucInstallMonetizerSystweak.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Oneclickbar.Multimedia_Toolbar.ucOneclickbar_Multimedia_Toolbar.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Soft_Publisher.Shopping_Chips.ucSoftPublisher_ShoppingChips.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.frmPrincipal.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.ElexTech.YAC.ucElexTechYAC.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Adsology.Optimizer_Pro.ucAdsologyOptimizerPro.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.aMonetize.Mobogenie.ucAMonetizer_Mobogenie.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.aMonetize.ReMarkit.ucAMonetizer_ReMarkit.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.InstallMonetizer.SearchProtect.ucInstallMonetizer_SearchProtect.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.InstallMonetizer.Video_Saver.ucInstallMonetizer_VideoSaver.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Just_Develop_It.My_PC_Backup.ucJustDevelopItMyPCBackup.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.PC_Speed_Up.ucPCSpeedUp.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.Great_Arcade_Hits.ucRevenyouGreatArcadehits.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.Mobogenie.ucRevenyouMobogenie.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.ShoppingHelper.ucRevenyouShoppingHelper.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.Weather_alerts.ucRevenyou_WeatherAlerts.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revizer.Re_Markable.ucRevizerReMarkable.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Soft_Publisher.Iminent_Toolbar.SoftPublisher_Confirmacion.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Soft_Publisher.Iminent_Toolbar.ucSoftPublisher_IminentToolBar.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Sterkly.loffinam.Sterkly__loffinam.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.ucInicio.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.Properties.Resources.resources
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.csproj.GenerateResource.Cache
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.exe
+C:\Dev\Downloader205\Downloader205\Downloader205\Downloader205\obj\Debug\Downloader205.pdb
+C:\Users\demian\Dropbox\Downloader205\Downloader205\bin\Debug\Downloader205.exe
+C:\Users\demian\Dropbox\Downloader205\Downloader205\bin\Debug\Downloader205.pdb
+C:\Users\demian\Dropbox\Downloader205\Downloader205\bin\Debug\JsonFx.Json.dll
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.csprojResolveAssemblyReference.cache
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Dealply.Dealply.ucDealply.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Google.RealPlayer.ucGoogle_RealPlayer.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.InstallMonetizer.Systweak.ucInstallMonetizerSystweak.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Oneclickbar.Multimedia_Toolbar.ucOneclickbar_Multimedia_Toolbar.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Soft_Publisher.Shopping_Chips.ucSoftPublisher_ShoppingChips.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.frmPrincipal.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.ElexTech.YAC.ucElexTechYAC.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Adsology.Optimizer_Pro.ucAdsologyOptimizerPro.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.aMonetize.Mobogenie.ucAMonetizer_Mobogenie.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.aMonetize.ReMarkit.ucAMonetizer_ReMarkit.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.InstallMonetizer.SearchProtect.ucInstallMonetizer_SearchProtect.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.InstallMonetizer.Video_Saver.ucInstallMonetizer_VideoSaver.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Just_Develop_It.My_PC_Backup.ucJustDevelopItMyPCBackup.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.PC_Speed_Up.ucPCSpeedUp.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.Great_Arcade_Hits.ucRevenyouGreatArcadehits.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.Mobogenie.ucRevenyouMobogenie.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.ShoppingHelper.ucRevenyouShoppingHelper.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.Weather_alerts.ucRevenyou_WeatherAlerts.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revizer.Re_Markable.ucRevizerReMarkable.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Soft_Publisher.Iminent_Toolbar.SoftPublisher_Confirmacion.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Soft_Publisher.Iminent_Toolbar.ucSoftPublisher_IminentToolBar.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Sterkly.loffinam.Sterkly__loffinam.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.ucInicio.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Properties.Resources.resources
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.csproj.GenerateResource.Cache
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.exe
+C:\Users\demian\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.pdb
+C:\Users\test\Dropbox\Downloader205\Downloader205\bin\Debug\Downloader205.exe
+C:\Users\test\Dropbox\Downloader205\Downloader205\bin\Debug\Downloader205.pdb
+C:\Users\test\Dropbox\Downloader205\Downloader205\bin\Debug\JsonFx.Json.dll
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.csprojResolveAssemblyReference.cache
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Dealply.Dealply.ucDealply.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Google.RealPlayer.ucGoogle_RealPlayer.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.InstallMonetizer.Systweak.ucInstallMonetizerSystweak.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Oneclickbar.Multimedia_Toolbar.ucOneclickbar_Multimedia_Toolbar.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Soft_Publisher.Shopping_Chips.ucSoftPublisher_ShoppingChips.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.frmPrincipal.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.ElexTech.YAC.ucElexTechYAC.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Adsology.Optimizer_Pro.ucAdsologyOptimizerPro.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.aMonetize.Mobogenie.ucAMonetizer_Mobogenie.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.aMonetize.ReMarkit.ucAMonetizer_ReMarkit.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.InstallMonetizer.SearchProtect.ucInstallMonetizer_SearchProtect.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.InstallMonetizer.Video_Saver.ucInstallMonetizer_VideoSaver.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Just_Develop_It.My_PC_Backup.ucJustDevelopItMyPCBackup.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.PC_Speed_Up.ucPCSpeedUp.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.Great_Arcade_Hits.ucRevenyouGreatArcadehits.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.Mobogenie.ucRevenyouMobogenie.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.ShoppingHelper.ucRevenyouShoppingHelper.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.Weather_alerts.ucRevenyou_WeatherAlerts.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revizer.Re_Markable.ucRevizerReMarkable.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Soft_Publisher.Iminent_Toolbar.SoftPublisher_Confirmacion.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Soft_Publisher.Iminent_Toolbar.ucSoftPublisher_IminentToolBar.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Sterkly.loffinam.Sterkly__loffinam.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.ucInicio.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Properties.Resources.resources
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.csproj.GenerateResource.Cache
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.exe
+C:\Users\test\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.pdb
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.exe
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.pdb
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\bin\Debug\Downloader205.exe
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\bin\Debug\Downloader205.pdb
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\bin\Debug\JsonFx.Json.dll
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.csprojResolveAssemblyReference.cache
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Dealply.Dealply.ucDealply.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Google.RealPlayer.ucGoogle_RealPlayer.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.InstallMonetizer.Systweak.ucInstallMonetizerSystweak.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Oneclickbar.Multimedia_Toolbar.ucOneclickbar_Multimedia_Toolbar.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Soft_Publisher.Shopping_Chips.ucSoftPublisher_ShoppingChips.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.frmPrincipal.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.ElexTech.YAC.ucElexTechYAC.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Adsology.Optimizer_Pro.ucAdsologyOptimizerPro.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.aMonetize.Mobogenie.ucAMonetizer_Mobogenie.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.aMonetize.ReMarkit.ucAMonetizer_ReMarkit.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.InstallMonetizer.SearchProtect.ucInstallMonetizer_SearchProtect.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.InstallMonetizer.Video_Saver.ucInstallMonetizer_VideoSaver.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Just_Develop_It.My_PC_Backup.ucJustDevelopItMyPCBackup.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.PC_Speed_Up.ucPCSpeedUp.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.Great_Arcade_Hits.ucRevenyouGreatArcadehits.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.Mobogenie.ucRevenyouMobogenie.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.ShoppingHelper.ucRevenyouShoppingHelper.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revenyou.Weather_alerts.ucRevenyou_WeatherAlerts.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Revizer.Re_Markable.ucRevizerReMarkable.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Soft_Publisher.Iminent_Toolbar.SoftPublisher_Confirmacion.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Soft_Publisher.Iminent_Toolbar.ucSoftPublisher_IminentToolBar.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.Ofertas.Sterkly.loffinam.Sterkly__loffinam.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Formularios.ucInicio.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.Properties.Resources.resources
+C:\Users\Tety\Dropbox\Downloader205\Downloader205\obj\Debug\Downloader205.csproj.GenerateResource.Cache
+C:\Users\demian\Dropbox\Downloader205\Downloader205\bin\Debug\Downloader205.exe.config
